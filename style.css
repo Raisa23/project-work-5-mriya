@@ -3,7 +3,7 @@
 }
 
 html,body {
-    font-family: 'Exo2', sans-serif;
+    font-family: 'Exo 2', sans-serif;
 }
 .wrap {
     width: 350px;
@@ -35,11 +35,9 @@ p {
     border-bottom: 1px solid #c0c0c0;
     padding: 10px;
 } 
-span {
-    font-weight: bold;
-}
+
 .side {
-    font-weight: 700px;
+    font-weight: 700;
     width: 180px;
     display: inline-block;
     
